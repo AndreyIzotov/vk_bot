@@ -1,0 +1,27 @@
+{
+    "one_time": false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "Беляши"
+        },
+        "color": "primary"
+      }],
+      [{
+        "action": {
+          "type": "text",
+          "label": "Чебурек"
+        },
+        "color": "primary"
+      }],
+      [
+        {
+        "action": {
+          "type": "text",
+          "label": "Главное меню"
+        },
+        "color": "default"
+      }]
+    ]
+  }

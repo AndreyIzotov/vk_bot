@@ -1,0 +1,29 @@
+{
+    "one_time": false,
+    "buttons": [
+      [
+      {
+        "action": {
+          "type": "text",
+          "label": "Пироги"
+        },
+        "color": "primary"
+      }],
+      [
+        {
+        "action": {
+          "type": "text",
+          "label": "Пирожки"
+        },
+        "color": "primary"
+      }],
+      [
+      {
+        "action": {
+          "type": "text",
+          "label": "Печенье"
+        },
+        "color": "primary"
+      }]
+    ]
+  }
